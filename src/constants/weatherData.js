@@ -1,7 +1,6 @@
 export const PROJECTS = [
-  { id: "p1", name: "Pinnacle Tower", location: "Nairobi CBD, Kenya", type: "High-Rise Residential", completion: 42 },
-  { id: "p2", name: "Westgate Logistics Hub", location: "Westlands, Nairobi", type: "Industrial Warehouse", completion: 18 },
-  { id: "p3", name: "Mombasa Road Overpass", location: "Mlolongo, Machakos County", type: "Civil Infrastructure", completion: 71 },
+  { id: "p1", name: "Alpha Site", location: "Houston, TX", type: "Commercial" },
+  { id: "p2", name: "Beta Infrastructure", location: "Miami, FL", type: "Infrastructure" }
 ];
 
 export const ACTIVITY_LABELS = {
