@@ -181,3 +181,4 @@ export function Layout({ project, projects, onProjectChange, onLogout }) {
     </div>
   );
 }
+
