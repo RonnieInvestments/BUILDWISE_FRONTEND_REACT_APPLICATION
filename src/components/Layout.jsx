@@ -15,7 +15,7 @@ import {
 } from "lucide-react";
 
 export function Layout({ project, projects, onProjectChange, onLogout }) {
-  const [mobileOpen, setMobileOpen] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false); // views
   const navigate = useNavigate();
   const location = useLocation();
 
